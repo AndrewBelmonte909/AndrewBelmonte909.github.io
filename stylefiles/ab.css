@@ -1,0 +1,43 @@
+
+  #headstuff {
+    background-color: #043323; /*   fave dark emerald */
+    vlink: black;
+/*    background-color: #EEEEEE; 888888 F5D74D FFD700 FFCC00 */
+/*     font-size:20pt; */
+/*     font-family: sans-serif; */
+  }
+  
+  #footstuff {
+    background-color: #e1ccb7; 		/*   sand tan to match my dark emerald */
+    /*     background-color: #C0C0C0; - original grey	
+    #ad4caa - closest pink I liked  */
+  }
+  
+    #ffootstuff {
+    background-color: #66CC66; 
+  }
+
+  
+    #PSUheader {
+    background-color: 0066CC; 
+    vlink: black;
+/*    background-color: ;  FFD700 FFCC00 */
+/*     font-size:20pt; */
+/*     font-family: sans-serif; */
+  }
+
+  
+.mainlabel {color: #000099;}  
+  /*    .mainlabel {color:#086D19;} blue  */
+
+font.title {font-weight: bold; font-family: helvetica,arial}
+
+/* 		font.title {font-weight: bold; font-family: helvetica,arial}	*/
+
+
+.onoff {
+text-decoration: none; 
+onmouseover: this.style.color='red';
+onmouseout: this.style.color='black'}
+
+
